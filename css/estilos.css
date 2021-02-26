@@ -18,3 +18,27 @@ body{
 {
     font-size: 20px;
 }
+
+#cabecera
+{
+    background: #88f;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+    -webkit-box-shadow: 2px -1px 17px -4px rgba(0,0,0,0.75);
+-moz-box-shadow: 2px -1px 17px -4px rgba(0,0,0,0.75);
+box-shadow: 2px -1px 17px -4px rgba(0,0,0,0.75);
+
+}
+
+#cabecera #tagline{
+    margin:  0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+#post
+{
+
+}
